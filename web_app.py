@@ -11,7 +11,7 @@ st.markdown("フリマアプリの実際の取引データに基づいた最新�
 # ★ここにSupabaseのURIを貼り付けます（パスワードの書き換えを忘れずに！）
 # 例: "postgresql://postgres.xxxxxx:MyPassword123@aws-0-ap-northeast-1.pooler.supabase.com:6543/postgres"
 # ==========================================
-SUPABASE_URI = "postgresql://postgres.oywznddjjehwzfckljsy:Mugichan123454321@aws-0-ap-northeast-1.pooler.supabase.com:5432/postgres"
+SUPABASE_URI = "postgresql://postgres.oywznddjjehwzfckljsy:Mugichan123454321@aws-0-ap-northeast-1.pooler.supabase.com:6543/postgres"
 
 IMAGE_DICT = {
     "ワンピースカード 新たなる皇帝 (OP-09)": "https://placehold.jp/100x100.png?text=OP-09",
